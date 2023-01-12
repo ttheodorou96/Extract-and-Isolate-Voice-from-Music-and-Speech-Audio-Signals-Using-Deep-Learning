@@ -1,0 +1,7 @@
+open_unmix: "Open-Unmix"
+spleeter: "Spleeter"
+my_separator: "My_Model_Separator"
+librosa_separator: "REPET-SIM"
+all: ["Open-Unmix", "Spleeter", "My_Model_Separator", "REPET-SIM"]
+nn_filtering: "Nearest-Neighbour Filtering"
+dnn_lstm: "Deep bi-directional LSTM"

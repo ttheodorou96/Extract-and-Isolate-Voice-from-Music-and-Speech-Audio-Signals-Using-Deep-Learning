@@ -1,0 +1,13 @@
+frame_size: 1024
+hop_length: 256
+duration: 0.29
+sample_rate: 22050
+img_size:
+  height: 513
+  width: 25
+epochs: 15
+batch_size: 32
+mono: True
+dataset_directory: 'musdb'
+default_dataset_directory: 'musdb'
+iterations: 10

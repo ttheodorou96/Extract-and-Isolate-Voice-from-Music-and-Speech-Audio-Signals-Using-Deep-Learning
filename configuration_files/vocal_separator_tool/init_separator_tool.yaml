@@ -1,0 +1,12 @@
+frame_size: 4096
+hop_length: 256
+duration: 0.1
+win_length: 1024
+sample_rate: 22050
+img_size:
+  height: 2049
+  width: 9
+epochs: 300
+batch_size: 128
+mono: True
+separate: True
